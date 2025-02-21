@@ -1,5 +1,5 @@
 #!/bin/bash
-# submission_reminder_app_Ulydivine
+# submission_reminder_app_Kagaba123
 Submission Reminder App
 
 What It Is
