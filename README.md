@@ -21,11 +21,11 @@ submission_reminder_<username>/
 
 #2. What each file does
 
-- config/config.env: It has all deatils about the assignment.
+- config/config.env: It has all details about the assignment.
 - assets/submissions.txt: Contains student data with assignment submission status.
 - modules/functions.sh: Contains helper functions to process the submission data.
 - app/remider.sh: Script that checks for submissions.
-- startup.sh: Entey point to start the app.
+- startup.sh: Enter point to start the app.
 
 #3. How to set it up
 
